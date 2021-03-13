@@ -1,3 +1,3 @@
 # testrepo
 
-This is a not a test
+This is a change from the feature branch
